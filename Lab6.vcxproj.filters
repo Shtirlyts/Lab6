@@ -18,9 +18,6 @@
     <ClCompile Include="Task.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Task3.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Lab5\.gitignore" />

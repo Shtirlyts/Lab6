@@ -124,7 +124,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Task.c" />
-    <ClCompile Include="Task3.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Lab5\.gitignore" />
